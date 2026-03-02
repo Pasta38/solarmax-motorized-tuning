@@ -25,6 +25,7 @@ BOM (Bill Of Material) Liste des composants
 
 - 1 x boitier à définir
 - 4 x supports moteurs à définir
+- 4 x galets caoutchoux à définir
 - xxx vis à définir
 - xxx colonettes à définir
 
