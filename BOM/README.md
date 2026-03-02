@@ -7,6 +7,7 @@ BOM (Bill Of Material) Liste des composants
 - 1 x condensateur tantal 4.7 uF
 - 4 x condensateurs ceramique 10nF
 - 1 x regulateur LM7805
+- 1 x recepteur infrarouge VS1838
 - 8 x connecteurs RJ12 femelles
 - 4 x connecteurs XH5 socket
 - 4 x moteurs pas à pas 28BYJ-48 5V
