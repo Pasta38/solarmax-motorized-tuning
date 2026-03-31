@@ -101,8 +101,8 @@ Toutes les pièces mécaniques ont été conçues avec **FreeCAD** et optimisée
 
 * Boîtier électronique
 * Supports moteurs
-* Interfaces de fixation sur la lunette
-* Systèmes de maintien des câbles
+* Interfaces de fixation sur la lunette (brides)
+* Systèmes de maintien des câbles (optionnel)
 
 ### Objectifs de conception
 
