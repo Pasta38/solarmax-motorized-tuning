@@ -3,9 +3,13 @@ BOM (Bill Of Material) Liste des composants
 	-- Commercial --
 	
 1	Arduino Nano
+
 4	circuits ULN2003AN
+
 1	condensateur tantal 4.7 uF
+
 4	condensateurs ceramique 10nF
+
 1	regulateur LM7805
 1	recepteur infrarouge VS1838
 1	mini telecommande infrarouge 38kHz
