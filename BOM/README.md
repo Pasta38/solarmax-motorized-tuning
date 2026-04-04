@@ -41,7 +41,7 @@ BOM (Bill Of Material) Liste des composants
 
 6	colonettes plastiques M3x10x6
 
-12	vis plastiques M2
+24	vis M2
 
 2	colonettes plastiques M2x20x6
 
