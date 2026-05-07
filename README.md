@@ -70,8 +70,10 @@ Carte conçue avec **KiCad** et fabriquée chez **JLCPCB**.
 | Composant        | Rôle                   |
 | ---------------- | ---------------------- |
 | Arduino Nano     | Contrôleur principal   |
-| 4 × ULN2003AN    | Drivers moteurs        |
-| 4 × 28BYJ-48 5V  | Moteurs pas-à-pas      |
+| 2 × ULN2003AN    | Drivers moteurs        |
+| 2 × 28BYJ-48 5V  | Moteurs pas-à-pas      |
+| 2 × A4988        | Drivers moteurs        |
+| 2 × NEMA 17      | Moteurs pas-à-pas      |
 | Récepteur IR     | Interface télécommande |
 | Régulateur 5V    | 9v vers 5v LM7805      |
 | Connecteurs RJ12 | Liaison moteurs        |
@@ -189,7 +191,7 @@ Carte principale → RJ12 → Câble → Carte adaptatrice → JST-XH5 → Moteu
 ### 1. Assemblage électronique
 
 1. Souder les connecteurs sur la carte principale
-2. Installer les ULN2003AN
+2. Installer les drivers
 3. Ajouter les headers Arduino
 4. Flasher le firmware
 5. Tester le récepteur IR
